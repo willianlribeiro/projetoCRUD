@@ -1,0 +1,1 @@
+Este é um programa básico, onde é possível acessar um menu que contém opção de Criação, Deleção e inclusão de itens. Especificamente adicionando dados simples como nome e idade de usuários.
